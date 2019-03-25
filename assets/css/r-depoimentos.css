@@ -1,0 +1,11 @@
+/***
+ *	rDepoimentos Template Base
+ *	Date:	2017-12-23
+ */
+
+.depoimentos-wrap {}
+	.depoimentos-list {}
+		.depoimentos-item {}
+			.depoimentos-image {}
+			.depoimentos-author {}
+			.depoimentos-content {}
